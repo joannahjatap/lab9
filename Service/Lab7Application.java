@@ -1,4 +1,4 @@
-package com.grefiel.lab_7.Entity.Service;
+package com.JATAP.lab_7.Entity.Service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
